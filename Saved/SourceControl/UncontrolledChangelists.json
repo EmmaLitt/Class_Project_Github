@@ -7,12 +7,9 @@
 			"files": [
 				"C:/Users/lemma/Pictures/Class_Project_Github/Content/PlayerAssets/BP_CharacterBaseFPS.uasset",
 				"C:/Users/lemma/Pictures/Class_Project_Github/Content/Blueprints/WeaponBlueprints/BP_WeaponBase.uasset",
-				"C:/Users/lemma/Pictures/Class_Project_Github/Content/Fab/Megascans/3D/Rusty_Car_Exhaust_wcvoaje/Medium/wcvoaje_tier_2/StaticMeshes/SM_Pipe.uasset",
 				"C:/Users/lemma/Pictures/Class_Project_Github/Content/Meshes/SM_Pipe.uasset",
 				"C:/Users/lemma/Pictures/Class_Project_Github/Content/Animations/AS_PipeIdle.uasset",
-				"C:/Users/lemma/Pictures/Class_Project_Github/Content/Animations/AS_PipeSlash.uasset",
 				"C:/Users/lemma/Pictures/Class_Project_Github/Content/Animations/AS_PistolShoot.uasset",
-				"C:/Users/lemma/Pictures/Class_Project_Github/Content/Animations/AS.uasset",
 				"C:/Users/lemma/Pictures/Class_Project_Github/Content/Animations/AS_PipeSwing.uasset",
 				"C:/Users/lemma/Pictures/Class_Project_Github/Content/PlayerAssets/SK_Arissa_Skeleton.uasset",
 				"C:/Users/lemma/Pictures/Class_Project_Github/Content/Fab/Megascans/3D/Rusty_Car_Exhaust_wcvoaje/Medium/wcvoaje_tier_2/Textures/T_wcvoaje_2K_N.uasset",
@@ -20,7 +17,13 @@
 				"C:/Users/lemma/Pictures/Class_Project_Github/Content/Fab/Megascans/3D/Rusty_Car_Exhaust_wcvoaje/Medium/wcvoaje_tier_2/Textures/T_wcvoaje_2K_B.uasset",
 				"C:/Users/lemma/Pictures/Class_Project_Github/Content/Fab/Megascans/3D/Rusty_Car_Exhaust_wcvoaje/Medium/wcvoaje_tier_2/Materials/MI_wcvoaje.uasset",
 				"C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Fab/Content/Materials/Standard/M_MS_Base.uasset",
-				"C:/Users/lemma/Pictures/Class_Project_Github/Content/PlayerAssets/BP_CharacterBase.uasset"
+				"C:/Users/lemma/Pictures/Class_Project_Github/Content/PlayerAssets/BP_CharacterBase.uasset",
+				"C:/Users/lemma/Pictures/Class_Project_Github/Content/Animations/AS_PipeWalk.uasset",
+				"C:/Users/lemma/Pictures/Class_Project_Github/Content/PlayerAssets/SKM_Arissa.uasset",
+				"C:/Users/lemma/Pictures/Class_Project_Github/Content/PlayerAssets/ABP_Player.uasset",
+				"C:/Users/lemma/Pictures/Class_Project_Github/Content/Fab/Megascans/3D/Rusty_Car_Exhaust_wcvoaje/Medium/wcvoaje_tier_2/StaticMeshes/SM_Pipe.uasset",
+				"C:/Users/lemma/Pictures/Class_Project_Github/Content/Animations/AS_PipeSlash.uasset",
+				"C:/Users/lemma/Pictures/Class_Project_Github/Content/Animations/AS.uasset"
 			]
 		}
 	]
