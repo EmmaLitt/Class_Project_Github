@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/lemma/Pictures/Class_Project_Github/Content/PlayerAssets/BP_CharacterBase.uasset",
+				"C:/Users/lemma/Pictures/Class_Project_Github/Content/Blueprints/WeaponBlueprints/BP_Pipe.uasset",
+				"C:/Users/lemma/Pictures/Class_Project_Github/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/2G/AI54JFH10AZMI13NYULFA8.uasset",
+				"C:/Users/lemma/Pictures/Class_Project_Github/Content/Blueprints/WeaponBlueprints/BP_Gun.uasset",
+				"C:/Users/lemma/Pictures/Class_Project_Github/Content/Pack_Simple_Particle_Burst/02_Blueprints/BP_Particle_Burst_Lvl_3.uasset",
+				"C:/Users/lemma/Pictures/Class_Project_Github/Content/Pack_Simple_Particle_Burst/01_Niagara_Systems/NS_ImpactEffect.uasset",
+				"C:/Users/lemma/Pictures/Class_Project_Github/Content/Pack_Simple_Particle_Burst/01_Niagara_Systems/NS_Simple_Burst_Level_3.uasset",
+				"C:/Users/lemma/Pictures/Class_Project_Github/Content/Fab/Grenade/Grenade.uasset",
+				"C:/Users/lemma/Pictures/Class_Project_Github/Content/Fab/Grenade/grenade1.uasset",
+				"C:/Users/lemma/Pictures/Class_Project_Github/Content/Fab/Grenade/SM_Grenade.uasset",
+				"C:/Users/lemma/Pictures/Class_Project_Github/Content/Blueprints/WeaponBlueprints/BP_Grenade.uasset",
+				"C:/Users/lemma/Pictures/Class_Project_Github/Content/MsvFx_Niagara_Explosion_Pack_01/Prefabs/NS_GrenadeExplosion.uasset",
+				"C:/Users/lemma/Pictures/Class_Project_Github/Content/MsvFx_Niagara_Explosion_Pack_01/Prefabs/Niagara_Explosion_02.uasset",
+				"C:/Users/lemma/Pictures/Class_Project_Github/Content/Meshes/SM_GrenadeLauncher.uasset"
+			]
+		}
+	]
+}
